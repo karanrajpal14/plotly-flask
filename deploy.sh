@@ -2,7 +2,7 @@
 
 # Replace the following URL with a public GitHub repo URL
 gitrepo=https://github.com/karanrajpal14/plotly-flask.git
-webappname=guru$RANDOM
+webappname=guru15330
 
 # Create a resource group.
 az group create --location westeurope --name myResourceGroup
