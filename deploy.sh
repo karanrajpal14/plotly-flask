@@ -4,6 +4,8 @@
 gitrepo=https://github.com/karanrajpal14/plotly-flask.git
 webappname=guru15330
 
+az webapp delete --name guru15330 --resource-group myResourceGroup
+
 # Create a resource group.
 az group create --location westeurope --name myResourceGroup
 
